@@ -1,4 +1,4 @@
-# rdv - Application de gestion des rendez-vous
+# RDV - Application de gestion des rendez-vous
 
 Bienvenue dans l'application de gestion des rendez-vous (rdv) ! Cette application vous permet de planifier, suivre et gérer les rendez-vous de manière efficace.
 
